@@ -46,7 +46,7 @@
   </a>
 </p>
 
-[![Torrin's Activity Graph](https://activity-graph.herokuapp.com/graph?username=amitp138&custom_title=Amit's%20Contribution%20Graph&theme=radical&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](http://torrinleonard.com/)
+[![Amit's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=amitp138)](https://github.com/amitp138/github-readme-activity-graph)
 
 <p align="center">
   <a href="http://torrinleonard.com/">
